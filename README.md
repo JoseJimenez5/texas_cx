@@ -22,7 +22,7 @@ Resolver de Ecuaciones Diferenciales Ordinarias lineales con coeficientes consta
 ### 1. Transferencia a la Calculadora
 
 1. Conecta tu TI-Nspire a la PC mediante el software **TI-Nspire CX Student Software** o **Computer Link**.
-2. Copia el archivo `.tns` que contiene la función `edo_lineal` a la carpeta **MyLib** de tu dispositivo.
+2. Copia el archivo `.tns` que contiene la función `edo_coef` a la carpeta **MyLib** de tu dispositivo.
 3. En la calculadora, presiona la tecla **doc**, selecciona **6: Refresh Libraries** (Refrescar bibliotecas).
 
 ---
