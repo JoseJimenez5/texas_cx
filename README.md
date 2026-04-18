@@ -1,11 +1,11 @@
-# 🔢 EDO Lineal a Coeficientes Constantes (Orden 1-3)
+# EDO Lineal a Coeficientes Constantes (Orden 1-3)
 
 
 Resolver de Ecuaciones Diferenciales Ordinarias lineales con coeficientes constantes de hasta tercer orden. Implementa métodos analíticos completos incluyendo variación de parámetros para soluciones particulares.
 
 ---
 
-## 🚀 Características Principales
+## Características Principales
 
 - **Soporte hasta orden 3:** Resuelve EDOs lineales de primer, segundo y tercer orden con coeficientes constantes.
 - **Detección automática de raíces:** Identifica y clasifica raíces del polinomio característico (reales, repetidas, complejas).
@@ -17,7 +17,7 @@ Resolver de Ecuaciones Diferenciales Ordinarias lineales con coeficientes consta
 
 ---
 
-## 💻 Instalación y Configuración
+## Instalación y Configuración
 
 ### 1. Transferencia a la Calculadora
 
@@ -27,7 +27,7 @@ Resolver de Ecuaciones Diferenciales Ordinarias lineales con coeficientes consta
 
 ---
 
-## 🛠️ Modo de Uso y Sintaxis
+## Modo de Uso y Sintaxis
 
 ### Sintaxis General
 
@@ -43,7 +43,7 @@ edo_coef\edo_coef(ecuación, modo)
 
 ---
 
-## 📚 Ejemplos de Uso
+## Ejemplos de Uso
 
 ### Ejemplo 1: EDO de Segundo Orden (Modo Resultados)
 
@@ -140,7 +140,7 @@ Para EDOs no homogéneas:
 
 ---
 
-## 📊 Estructura de Salida (Modo "p")
+## Estructura de Salida (Modo "p")
 
 El modo proceso muestra:
 
@@ -155,7 +155,7 @@ El modo proceso muestra:
 
 ---
 
-## ⚠️ Notas Importantes
+## Notas Importantes
 
 - La ecuación debe estar en formato estándar con coeficientes constantes
 - Para EDOs no homogéneas, el término derecho puede ser cualquier función de x
@@ -164,7 +164,7 @@ El modo proceso muestra:
 
 ---
 
-## 🔮 Roadmap: Posibles Extensiones
+##  Roadmap: Posibles Extensiones
 
 - [ ] Soporte para EDOs de orden superior (4+)
 - [ ] Método de coeficientes indeterminados como alternativa
@@ -174,7 +174,7 @@ El modo proceso muestra:
 
 ---
 
-## 🎯 Posibles Usos
+##  Posibles Usos
 
 Este proyecto está diseñado para diversos escenarios:
 
@@ -185,7 +185,7 @@ Este proyecto está diseñado para diversos escenarios:
 
 ---
 
-## 📢 Contribuciones
+## Contribuciones
 
 ¿Quieres mejorar el proyecto?
 
@@ -203,7 +203,7 @@ Proyecto de código abierto. Este software es libre de usar y modificar para fin
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Proyecto desarrollado por Jose V. Jimenez. Este software es de código abierto y está diseñado para potenciar el aprendizaje y la 
 resolución de problemas en el ámbito de ecuaciones diferenciales lineales.
