@@ -65,7 +65,7 @@ edo_coef\edo_coef(y''-4*y'+4*y=^(2*x),a)
 **EDO:** `y''' - 3y'' + 3y' - y = 0`
 
 ```ti-basic
-edo_lineal(y''' - 3*y'' + 3*y' - y = 0, "p")
+edo_coef\edo_coef(y''' - 3*y'' + 3*y' - y = 0, p)
 ```
 
 **Salida esperada (modo "p"):**
@@ -83,7 +83,7 @@ edo_lineal(y''' - 3*y'' + 3*y' - y = 0, "p")
 **EDO:** `y'' - 4y' + 4y = e^(2x)`
 
 ```ti-basic
-edo_lineal(y'' - 4*y' + 4*y = e^(2*x), "p")
+edo_coef\edo_coef(y'' - 4*y' + 4*y = e^(2*x),p)
 ```
 
 **Salida esperada:**
@@ -100,7 +100,7 @@ edo_lineal(y'' - 4*y' + 4*y = e^(2*x), "p")
 **EDO:** `y'' + 4y' + 13y = 0`
 
 ```ti-basic
-edo_lineal(y'' + 4*y' + 13*y = 0, "a")
+edo_coef\edo_coef(y'' + 4*y' + 13*y = 0,a)
 ```
 
 **Salida esperada:**
