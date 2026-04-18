@@ -32,7 +32,8 @@ Resolver de Ecuaciones Diferenciales Ordinarias lineales con coeficientes consta
 ### Sintaxis General
 
 ```ti-basic
-edo_lineal(ecuación, modo)
+edo_coef\edo_coef((ecuación, modo)
+Ejemplo: edo_coef\edo_coef(y''-4*y'+4*y=^(2*x),a)
 ```
 
 **Parámetros:**
